@@ -1,2 +1,3 @@
 # Unfolding
-RooBayesUnfold is used.
+- Bayesian unfolding.
+- ROOT's RooUnfold pkg is necessary. 
